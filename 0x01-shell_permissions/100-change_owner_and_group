@@ -1,2 +1,2 @@
-#!/bin/bash
-chown -hR vincent:staff
+ange_owner_and_group#!/bin/bash
+sudo chown -h vincent:staff ./
