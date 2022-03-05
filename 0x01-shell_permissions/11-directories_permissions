@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod ugo+X
+#!ibi_permissions/bash
+chmod ugo+X ./*
