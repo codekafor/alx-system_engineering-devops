@@ -1,3 +1,2 @@
-r!/bin/bash
-r_permissions
+#!/bin/bash
 chmod --reference=olleh hello
